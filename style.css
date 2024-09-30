@@ -1,0 +1,45 @@
+.biodata{
+    color:rgb(239, 105, 177);
+}
+.nama{
+    color:palevioletred;
+}
+.tanggal-lahir{
+    color:palevioletred;
+}
+.alamat{
+    color:palevioletred;
+}
+.cita-cita{
+    color:palevioletred;
+}
+.sekolah{
+    color:palevioletred;
+}
+.domisili{
+    color:palevioletred;
+}
+.hobi{
+    color:palevioletred;
+}
+.keahlian{
+    color:palevioletred;
+}
+.status{
+    color:palevioletred;
+}
+.instagram{
+    color:palevioletred;
+}
+.tabel{
+    border: 2px solid burlywood;
+    width: 100%;
+}
+td{
+    border: 1px solid burlywood;
+    padding: 15px;
+    text-align: center;
+}
+tr{
+    color:palevioletred;
+}
